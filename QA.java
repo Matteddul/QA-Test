@@ -10,4 +10,8 @@ int main() {
 		        cout << "You entered " << number;    
 			    return 0;
 }
- Result=Pass
+ i
+ 
+Result=Pass
+
+Hello mourya welcome to india , welcome to new life wecan accept the things
