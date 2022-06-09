@@ -15,3 +15,5 @@ int main() {
 Result=Pass
 
 Hello mourya welcome to india , welcome to new life wecan accept the things
+
+Result Pass
